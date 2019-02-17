@@ -1,5 +1,5 @@
 
-package javabesic;
+package javabasic;
 
 /**
  *
@@ -25,4 +25,3 @@ public class MathClassDemo {
     }
     
 }
-
